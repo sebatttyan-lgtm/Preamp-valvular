@@ -3373,7 +3373,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Piher_PC-16_Single_Horizontal"
+		(property "Footprint" "lib_rama:TRIM_WH148-1A-2-18T-L20"
 			(at 214.63 88.9 0)
 			(effects
 				(font
@@ -4946,7 +4946,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Piher_PC-16_Single_Horizontal"
+		(property "Footprint" "lib_rama:TRIM_WH148-1A-2-18T-L20"
 			(at 200.66 212.09 0)
 			(effects
 				(font

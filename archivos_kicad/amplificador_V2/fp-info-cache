@@ -1,4 +1,4 @@
-28111753902164606
+28115334997590066
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -108213,6 +108213,13 @@ Header_CIAA_Z3RO_TH
 40
 40
 lib_rama
+CKCSBS01
+
+
+0
+4
+4
+lib_rama
 CNY70
 CNY70
 CNY70
@@ -110379,6 +110386,13 @@ lib_rama
 TRIMER_V
 trimmer, Piher PT6-xV
 trimmer
+0
+3
+3
+lib_rama
+TRIM_WH148-1A-2-18T-L20
+
+
 0
 3
 3

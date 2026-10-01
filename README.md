@@ -1,6 +1,6 @@
 # Preamplificador valvular
 ## descripcion
-amplificador valvular estéreo con 2 válvulas de vacío y control de volumen por medio de 2 potenciómetros instalados en la placa, junto a borneras de alimentación de válvulas y filamento, entrada y salida. El circuito está basado en el kit de Lothye "modulo preamplificador", pero separando la fuente de alimentación de el preamplificador y el preamplificador en sí mismo.
+amplificador valvular estéreo con 2 válvulas de vacío y control de volumen por medio de 2 potenciómetros instalados en la placa, junto a borneras de alimentación de válvulas y filamento, entrada y salida. El circuito está basado en el kit de Lothye [modulo preamplificador](https://tienda.starware.com.ar/producto/modulo-preamplificador-valvular-lothye-6j1-12v-ac-diy-para-armar-kit-partes/) , pero separando la fuente de alimentación de el preamplificador y el preamplificador en sí mismo.
 
 ## Integrantes
 

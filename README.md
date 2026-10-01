@@ -1,6 +1,20 @@
-# amplificador valvular
+# Preamplificador valvular
 ## descripcion
-amplificador valvular estéreo con 2 válvulas de vacío y control de volumen por medio de 2 potenciometros instalados en la placa, junto a borneras de alimentación de válvulas y filamento, entrada y salida. 
+amplificador valvular estéreo con 2 válvulas de vacío y control de volumen por medio de 2 potenciómetros instalados en la placa, junto a borneras de alimentación de válvulas y filamento, entrada y salida. El circuito está basado en el kit de Lothye "modulo preamplificador", pero separando la fuente de alimentación de el preamplificador y el preamplificador en sí mismo.
 
-## integrantes
+## Integrantes
 **Perez Sebastian Alessandro.**
+
+## Materiales (placa de preamplificador)
+
+
+### resistencias
+| valor | cantidad | potencia | tipo 
+| ------------ | ------------ | --------- | ---------- |
+| 4k7Ω | 4 | 1/2W | fija |
+| 470kΩ | 2 | 1/2W | fija |
+| 200Ω | 2 | 1/2W | fija |
+| 100kΩ | 2 | 1/2W | fija |
+| 100kΩ | 2 | 1/2W | potenciómetro (logarítmico) |
+
+

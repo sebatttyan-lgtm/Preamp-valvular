@@ -26,6 +26,13 @@ amplificador valvular estéreo con 2 válvulas de vacío y control de volumen po
 
 - **2 valvulas de vacio 6j1 o similares.** 
 - **3 bornera de 2 entradas.** 
-- **1 borneras de 3 entradas.** 
+- **1 borneras de 3 entradas.**
+
+## PLACA DE CIRCUITO IMPRESO (PCB)
+
+<p align="center">
+  <img src="https://github.com/sebatttyan-lgtm/Preamp-valvular/blob/main/Documentos/Imagenes/PCB_AMPV2.PNG" alt="Imagen de PCB">
+</p>
+
 
 
